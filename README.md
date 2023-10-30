@@ -2,6 +2,8 @@
 
 # Évaluation Architectures Micro-services
 
+![arch](https://github.com/Maraoui21/yassine-maraoui-enset-adria-test/assets/100817261/0646826f-7ea2-4692-a0a9-81bc3eecd548)
+
 Durée : 2H30
 
 # nom et prénom : Maraoui Yassine GLSID 3
