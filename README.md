@@ -39,4 +39,15 @@ Durée : 2H30
 # call from gateway
 ![s9](https://github.com/Maraoui21/yassine-maraoui-enset-adria-test/assets/100817261/54a5d406-ce4c-486b-bd00-4dcaaded3b45)
 
+# 4. Développer et tester le micro-service transfer-service
+
+# Fegin clients 
+
+-client - wallet
+
+![14](https://github.com/Maraoui21/yassine-maraoui-enset-adria-test/assets/100817261/6bcb43d3-b422-416a-a0d4-0c373ddb56d8)
+
+
+![13](https://github.com/Maraoui21/yassine-maraoui-enset-adria-test/assets/100817261/5a2eb811-a55b-4dd2-b5b2-249cf441c357)
+
 
