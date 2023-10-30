@@ -30,7 +30,8 @@ Durée : 2H30
 
 # configuration de config server
 
-![s3](https://github.com/Maraoui21/yassine-maraoui-enset-adria-test/assets/100817261/64df17fa-adac-4b1a-b90a-cf74887a516d)
+![s5](https://github.com/Maraoui21/yassine-maraoui-enset-adria-test/assets/100817261/900ac6b1-723e-4d23-8b3d-725fcf60a98d)
+
 
 # 3. Développer et tester le micro-service wallet-service
 
