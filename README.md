@@ -43,13 +43,9 @@ Durée : 2H30
 
 # Fegin clients 
 
--client 
+-client - wallet
 
-![s10](https://github.com/Maraoui21/yassine-maraoui-enset-adria-test/assets/100817261/329cf532-a425-44e7-ba35-9d67186e4efa)
-
-- wallet
-
-![11](https://github.com/Maraoui21/yassine-maraoui-enset-adria-test/assets/100817261/703f11c5-2fd9-4495-85f8-d63e86ae8324)
+![14](https://github.com/Maraoui21/yassine-maraoui-enset-adria-test/assets/100817261/6bcb43d3-b422-416a-a0d4-0c373ddb56d8)
 
 
 ![13](https://github.com/Maraoui21/yassine-maraoui-enset-adria-test/assets/100817261/5a2eb811-a55b-4dd2-b5b2-249cf441c357)
