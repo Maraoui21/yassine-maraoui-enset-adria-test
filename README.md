@@ -30,3 +30,9 @@ Durée : 2H30
 
 ![s3](https://github.com/Maraoui21/yassine-maraoui-enset-adria-test/assets/100817261/64df17fa-adac-4b1a-b90a-cf74887a516d)
 
+# 3. Développer et tester le micro-service wallet-service
+
+![s6](https://github.com/Maraoui21/yassine-maraoui-enset-adria-test/assets/100817261/38f8fecf-ce3b-4756-905b-17365b5e59e4)
+![s7](https://github.com/Maraoui21/yassine-maraoui-enset-adria-test/assets/100817261/88e01f41-2011-4cb5-8481-fbb0875229f5)
+
+
