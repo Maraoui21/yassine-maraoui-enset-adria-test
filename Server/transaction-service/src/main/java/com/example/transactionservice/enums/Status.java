@@ -1,2 +1,7 @@
-package com.example.transactionservice.enums;public enum status {
+package com.example.transactionservice.enums;
+
+public enum Status {
+    VALIDATED,
+    PENDING,
+    REJECTED
 }

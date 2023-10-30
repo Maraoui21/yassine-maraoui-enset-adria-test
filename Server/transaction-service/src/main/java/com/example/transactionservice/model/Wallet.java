@@ -1,2 +1,4 @@
-package com.example.transactionservice.model;public class Wallet {
+package com.example.transactionservice.model;
+
+public class Wallet {
 }
